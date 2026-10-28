@@ -162,9 +162,9 @@ def predict_image(dataloader, model, ind):
 predict_image(test_data, model, 47)
 ```
 
-### Name: NITESH BHANDARI K
+### Name: SREEJAA R
 
-### Register Number: 212225240101
+### Register Number: 212225220101
 
 
 ### OUTPUT
